@@ -10,8 +10,9 @@ And I believe that the best products are built through the power of well-constru
 
 ...I also love bouldering, running, cooking, and trying new things!
 
-[![Linkedin Badge](https://img.shields.io/badge/-kennychow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktkennychow)](https://www.linkedin.com/in/ktkennychow/)
-[![Gmail Badge](https://img.shields.io/badge/-ktkennychow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkennychow@gmail.com)](mailto:ktkennychow@gmail.com)
+[Linkedin](https://www.linkedin.com/in/ktkennychow/)
+[Gmail](mailto:ktkennychow@gmail.com)
+[Resume](https://docs.google.com/document/d/1mbMRR4SPd-eNFf0irI68nCRGxiCdyRJrN1EJPvOPTvI/edit?usp=sharing)
 
 ## Technologies
 

@@ -16,7 +16,8 @@ And I believe that the best products are built through the power of well-constru
 
 ## Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)

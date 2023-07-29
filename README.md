@@ -1,6 +1,6 @@
 # Hey there! Happy to meet you 🤠
 
-I am Kenny, a Full-Stack Developer with a background in product design.
+I am a Full-Stack Developer with a background in product design.
 
 
 I like to design and develop products with great user experiences that help increase productivity and connect people.

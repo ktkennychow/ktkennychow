@@ -4,12 +4,14 @@ I am Kenny, a Full-Stack Developer with Product Design Background.
 
 
 I like to design and develop products with great user experiences that help increase productivity and connect people.
+
+
 And I believe that the best products are built through the power of well-constructed codebases that allow rapid development and active observations of how we, humans, behave.
 
-...And I also love bouldering, running, cooking, and trying new things!
+...I also love bouldering, running, cooking, and trying new things!
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktkennychow)](https://www.linkedin.com/in/ktkennychow/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkennychow@gmail.com)](mailto:ktkennychow@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kennychow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktkennychow)](https://www.linkedin.com/in/ktkennychow/)
+[![Gmail Badge](https://img.shields.io/badge/-ktkennychow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkennychow@gmail.com)](mailto:ktkennychow@gmail.com)
 
 ## Technologies
 

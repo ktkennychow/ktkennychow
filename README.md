@@ -2,9 +2,9 @@
 
 I am a Full-Stack Developer with a background in product design.
 
-I like to design and develop products with great user experiences that help increase productivity and connect people.
+I like designing and developing products with great user experiences that help increase productivity and connect people.
 
-And I believe that the best products are built through the power of well-constructed codebases that allow rapid development and active observations of how we, humans, behave.
+I believe that the best products are built through the power of well-constructed codebases that allow rapid development, and our ability to understand how we, humans, behave.
 
 ...I also love bouldering, running, cooking, and trying new things!
 

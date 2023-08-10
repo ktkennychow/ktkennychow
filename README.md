@@ -25,6 +25,7 @@ I believe that the best products are built through the power of well-constructed
 ![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
+![styled-components](https://img.shields.io/badge/styled--components-grey?style=for-the-badge&logo=styled-components)
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)
 ![next.js](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js)

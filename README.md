@@ -54,3 +54,6 @@ I believe that the best products are built through the power of well-constructed
 ![adobeillustrator](https://img.shields.io/badge/illustrator-grey?style=for-the-badge&logo=adobeillustrator)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-grey?style=for-the-badge&logo=adobephotoshop)
 ![notion](https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ktkennychow?theme=dark&font=Fauna%20One&ext=contest)](https://leetcode.com/ktkennychow/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ktkennychow&theme=blue-green)](#)

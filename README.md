@@ -1,13 +1,5 @@
 # Hey there! Happy to meet you 🤠
 
-I like designing and developing products with great user experiences that help increase productivity and connect people.
-
-I believe that the best products are built through the power of well-constructed codebases that allow rapid development, and our ability to understand how we, humans, behave.
-
-...I also love bouldering, running, cooking, and trying new things!
-
----
-
 ## Get in Touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-kennychow-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktkennychow)](https://www.linkedin.com/in/ktkennychow/)
@@ -23,12 +15,10 @@ I believe that the best products are built through the power of well-constructed
 ![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
-![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)
 ![next.js](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js)
 ![html5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=CSS3)
 ![node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js)
-![express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
 ![react_native](https://img.shields.io/badge/react_native-grey?style=for-the-badge&logo=react)
 ![expo](https://img.shields.io/badge/expo-grey?style=for-the-badge&logo=expo)
 

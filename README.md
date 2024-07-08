@@ -26,12 +26,12 @@
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![next.js](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js)
-![express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
+![express.js](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express)
 ![react_native](https://img.shields.io/badge/react_native-grey?style=for-the-badge&logo=react)
 ![expo](https://img.shields.io/badge/expo-grey?style=for-the-badge&logo=expo)
 
 ### CICD
-![github](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)
+![git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 ![docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)
 
 ### Design & Protyping

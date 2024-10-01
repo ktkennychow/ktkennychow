@@ -15,6 +15,7 @@
 ![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![go](https://img.shields.io/badge/go-grey?style=for-the-badge&logo=go)
 ![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![c](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)
 ![sql](https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=sql)
 ![yaml](https://img.shields.io/badge/yaml-grey?style=for-the-badge&logo=yaml)
 ![markdown](https://img.shields.io/badge/markdown-grey?style=for-the-badge&logo=markdown)

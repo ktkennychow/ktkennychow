@@ -24,12 +24,12 @@
 
 ### Library & Framework
 
-![tailwindcss](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![next.js](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js)
 ![express.js](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express)
 ![react_native](https://img.shields.io/badge/react_native-grey?style=for-the-badge&logo=react)
 ![expo](https://img.shields.io/badge/expo-grey?style=for-the-badge&logo=expo)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 
 ### CICD
 ![git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)

@@ -1,12 +1,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kennychow-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktkennychow)](https://www.linkedin.com/in/ktkennychow/)
 [![Gmail Badge](https://img.shields.io/badge/-ktkennychow@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ktkennychow@gmail.com)](mailto:ktkennychow@gmail.com)
 
+![express.js](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express)
 
-![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
-![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![next.js](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js)
-![express.js](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express)
 ![react_native](https://img.shields.io/badge/react_native-grey?style=for-the-badge&logo=react)
 ![expo](https://img.shields.io/badge/expo-grey?style=for-the-badge&logo=expo)
 
@@ -14,9 +12,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=CSS3)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 
-![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
+![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![go](https://img.shields.io/badge/go-grey?style=for-the-badge&logo=go)
-![c](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)
+![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 ![sql](https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=sql)
 ![yaml](https://img.shields.io/badge/yaml-grey?style=for-the-badge&logo=yaml)
 ![markdown](https://img.shields.io/badge/markdown-grey?style=for-the-badge&logo=markdown)

@@ -44,6 +44,8 @@ CSS          4 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
+From: 04 October 2025 - To: 03 November 2025
+
 Total Time: 62 hrs 9 mins
 
 TypeScript   40 hrs 30 mins  ████████████████▒░░░░░░░░   65.17 %

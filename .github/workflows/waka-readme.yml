@@ -1,0 +1,75 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Monthly Coding Stats
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### content
+          SHOW_TITLE: false # optional
+          SECTION_NAME: waka-weekly # optional
+          BLOCKS: ░▒▓█ # optional
+          CODE_LANG: javascript # optional
+          TIME_RANGE: last_7_days # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### content
+          SHOW_TITLE: false # optional
+          SECTION_NAME: waka-monthly # optional
+          BLOCKS: ░▒▓█ # optional
+          CODE_LANG: javascript # optional
+          TIME_RANGE: last_30_days # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### content
+          SHOW_TITLE: false # optional
+          SECTION_NAME: waka-six-months # optional
+          BLOCKS: ░▒▓█ # optional
+          CODE_LANG: javascript # optional
+          TIME_RANGE: last_6_months # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### content
+          SHOW_TITLE: false # optional
+          SECTION_NAME: waka-yearly # optional
+          BLOCKS: ░▒▓█ # optional
+          CODE_LANG: javascript # optional
+          TIME_RANGE: last_year # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional

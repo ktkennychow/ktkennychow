@@ -1,6 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-kennychow-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ktkennychow)](https://www.linkedin.com/in/ktkennychow/)
-[![Gmail Badge](https://img.shields.io/badge/-ktkennychow@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ktkennychow@gmail.com)](mailto:ktkennychow@gmail.com)
-
 ![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![go](https://img.shields.io/badge/go-grey?style=for-the-badge&logo=go)
@@ -27,47 +24,7 @@
 ![adobeillustrator](https://img.shields.io/badge/illustrator-grey?style=for-the-badge&logo=adobeillustrator)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-grey?style=for-the-badge&logo=adobephotoshop)
 
-<!--START_SECTION:wakaweekly-->
-
-```javascript
-From: 27 October 2025 - To: 03 November 2025
-
-Total Time: 14 hrs 18 mins
-
-TypeScript   11 hrs 16 mins  ███████████████████▓░░░░░   78.78 %
-Python       2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-```
-
-<!--END_SECTION:wakaweekly-->
 <!--START_SECTION:wakamonthly-->
-
-```javascript
-From: 04 October 2025 - To: 03 November 2025
-
-Total Time: 62 hrs 9 mins
-
-TypeScript   40 hrs 30 mins  ████████████████▒░░░░░░░░   65.17 %
-Python       13 hrs 34 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-CSS          3 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-HTML         1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-JavaScript   1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-```
-
 <!--END_SECTION:wakamonthly-->
 <!--START_SECTION:wakayearly-->
-
-```javascript
-From: 03 November 2024 - To: 03 November 2025
-
-Total Time: 472 hrs 11 mins
-
-TypeScript    329 hrs 41 mins █████████████████▒░░░░░░░   69.40 %
-Go            63 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Python        20 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JSON          11 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-YAML          11 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-```
-
 <!--END_SECTION:wakayearly-->

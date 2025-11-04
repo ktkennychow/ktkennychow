@@ -22,20 +22,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: wakaweekly # optional
-          BLOCKS: ░▒▓█ # optional
-          CODE_LANG: javascript # optional
-          TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 5 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### content
-          SHOW_TITLE: true # optional
           SECTION_NAME: wakamonthly # optional
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: javascript # optional

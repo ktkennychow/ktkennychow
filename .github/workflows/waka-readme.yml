@@ -22,7 +22,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SHOW_TITLE: false # optional
-          SECTION_NAME: waka-weekly # optional
+          SECTION_NAME: wakaweekly # optional
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: javascript # optional
           TIME_RANGE: last_7_days # optional
@@ -36,7 +36,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SHOW_TITLE: false # optional
-          SECTION_NAME: waka-monthly # optional
+          SECTION_NAME: wakamonthly # optional
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: javascript # optional
           TIME_RANGE: last_30_days # optional
@@ -50,7 +50,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SHOW_TITLE: false # optional
-          SECTION_NAME: waka-six-months # optional
+          SECTION_NAME: wakahalfyearly # optional
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: javascript # optional
           TIME_RANGE: last_6_months # optional
@@ -64,7 +64,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SHOW_TITLE: false # optional
-          SECTION_NAME: waka-yearly # optional
+          SECTION_NAME: wakayearly # optional
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: javascript # optional
           TIME_RANGE: last_year # optional

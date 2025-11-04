@@ -27,16 +27,11 @@
 ![adobeillustrator](https://img.shields.io/badge/illustrator-grey?style=for-the-badge&logo=adobeillustrator)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-grey?style=for-the-badge&logo=adobephotoshop)
 
-<!--START_SECTION:waka-->
-
-```javascript
-Total Time: 472 hrs 11 mins
-
-TypeScript    329 hrs 41 mins █████████████████▒░░░░░░░   69.40 %
-Go            63 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Python        20 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JSON          11 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-YAML          11 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-```
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:wakaweekly-->
+<!--END_SECTION:wakaweekly-->
+<!--START_SECTION:wakamonthly-->
+<!--END_SECTION:wakamonthly-->
+<!--START_SECTION:wakahalfyearly-->
+<!--END_SECTION:wakahalfyearly-->
+<!--START_SECTION:wakayearly-->
+<!--END_SECTION:wakayearly-->

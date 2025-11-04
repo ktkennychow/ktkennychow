@@ -30,6 +30,8 @@
 <!--START_SECTION:wakaweekly-->
 
 ```javascript
+From: 27 October 2025 - To: 03 November 2025
+
 Total Time: 14 hrs 18 mins
 
 TypeScript   11 hrs 16 mins  ███████████████████▓░░░░░   78.78 %

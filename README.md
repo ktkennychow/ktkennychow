@@ -52,7 +52,5 @@ JavaScript   1 hr 10 mins    ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:wakamonthly-->
-<!--START_SECTION:wakahalfyearly-->
-<!--END_SECTION:wakahalfyearly-->
 <!--START_SECTION:wakayearly-->
 <!--END_SECTION:wakayearly-->

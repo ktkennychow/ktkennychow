@@ -57,4 +57,17 @@ JavaScript   1 hr 10 mins    ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:wakamonthly-->
 <!--START_SECTION:wakayearly-->
+
+```javascript
+From: 03 November 2024 - To: 03 November 2025
+
+Total Time: 472 hrs 11 mins
+
+TypeScript    329 hrs 41 mins █████████████████▒░░░░░░░   69.40 %
+Go            63 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Python        20 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+JSON          11 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+YAML          11 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+```
+
 <!--END_SECTION:wakayearly-->

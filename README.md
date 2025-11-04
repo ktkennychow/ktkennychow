@@ -27,4 +27,6 @@
 ![adobeillustrator](https://img.shields.io/badge/illustrator-grey?style=for-the-badge&logo=adobeillustrator)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-grey?style=for-the-badge&logo=adobephotoshop)
 
-<img src="https://github.com/ktkennychow/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->

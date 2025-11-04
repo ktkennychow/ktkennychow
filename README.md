@@ -40,6 +40,17 @@ CSS          4 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:wakaweekly-->
 <!--START_SECTION:wakamonthly-->
+
+```javascript
+Total Time: 62 hrs 9 mins
+
+TypeScript   40 hrs 30 mins  ████████████████▒░░░░░░░░   65.17 %
+Python       13 hrs 34 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+CSS          3 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+HTML         1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+JavaScript   1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+```
+
 <!--END_SECTION:wakamonthly-->
 <!--START_SECTION:wakahalfyearly-->
 <!--END_SECTION:wakahalfyearly-->

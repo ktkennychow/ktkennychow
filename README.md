@@ -42,7 +42,7 @@ YAML         35 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 18 November 2024 - To: 18 November 2025
+From: 19 November 2024 - To: 19 November 2025
 
 Total Time: 479 hrs 14 mins
 

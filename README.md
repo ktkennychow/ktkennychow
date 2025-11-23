@@ -42,7 +42,7 @@ JSON         21 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 21 November 2024 - To: 21 November 2025
+From: 22 November 2024 - To: 22 November 2025
 
 Total Time: 483 hrs 50 mins
 

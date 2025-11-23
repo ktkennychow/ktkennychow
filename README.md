@@ -27,15 +27,15 @@
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
-From: 21 October 2025 - To: 20 November 2025
+From: 22 October 2025 - To: 21 November 2025
 
-Total Time: 34 hrs 48 mins
+Total Time: 33 hrs 3 mins
 
-TypeScript   26 hrs 11 mins  ██████████████████▓░░░░░░   75.24 %
-Python       6 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-HTML         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-YAML         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TypeScript   24 hrs 34 mins  ██████████████████▓░░░░░░   74.31 %
+Python       6 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+YAML         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+HTML         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:wakamonthly-->

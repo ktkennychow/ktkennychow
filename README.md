@@ -42,15 +42,15 @@ Go           19 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 01 December 2024 - To: 01 December 2025
+From: 03 December 2024 - To: 03 December 2025
 
-Total Time: 495 hrs 33 mins
+Total Time: 502 hrs 48 mins
 
-TypeScript    349 hrs 45 mins █████████████████▓░░░░░░░   70.17 %
-Go            63 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Python        22 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-JSON          12 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-YAML          11 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript    356 hrs 25 mins █████████████████▓░░░░░░░   70.48 %
+Go            64 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Python        22 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JSON          12 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+YAML          11 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:wakayearly-->

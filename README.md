@@ -42,13 +42,13 @@ TOML         7 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 05 December 2024 - To: 05 December 2025
+From: 06 December 2024 - To: 06 December 2025
 
-Total Time: 509 hrs 26 mins
+Total Time: 509 hrs 38 mins
 
-TypeScript    362 hrs 49 mins █████████████████▓░░░░░░░   70.82 %
-Go            64 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Python        22 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+TypeScript    362 hrs 59 mins █████████████████▓░░░░░░░   70.82 %
+Go            64 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Python        22 hrs 23 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 JSON          12 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 YAML          11 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```

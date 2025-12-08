@@ -42,7 +42,7 @@ TOML         7 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 06 December 2024 - To: 06 December 2025
+From: 07 December 2024 - To: 07 December 2025
 
 Total Time: 509 hrs 38 mins
 

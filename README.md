@@ -42,15 +42,15 @@ JSON         21 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 10 December 2024 - To: 10 December 2025
+From: 12 December 2024 - To: 12 December 2025
 
-Total Time: 516 hrs 26 mins
+Total Time: 520 hrs 9 mins
 
-TypeScript    367 hrs 44 mins █████████████████▓░░░░░░░   70.81 %
-Go            65 hrs 38 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Python        22 hrs 23 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-JSON          12 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML          11 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+TypeScript    371 hrs 20 mins █████████████████▓░░░░░░░   71.00 %
+Go            65 hrs 38 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Python        22 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+JSON          12 hrs 22 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+YAML          11 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:wakayearly-->

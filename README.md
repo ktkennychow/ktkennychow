@@ -42,7 +42,7 @@ Markdown     22 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 12 December 2024 - To: 12 December 2025
+From: 13 December 2024 - To: 13 December 2025
 
 Total Time: 520 hrs 9 mins
 

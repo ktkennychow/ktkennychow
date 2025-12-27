@@ -42,7 +42,7 @@ Python       17 mins         ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 25 December 2024 - To: 25 December 2025
+From: 26 December 2024 - To: 26 December 2025
 
 Total Time: 539 hrs 2 mins
 

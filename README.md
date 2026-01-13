@@ -42,15 +42,15 @@ TSConfig     10 mins         ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 10 January 2025 - To: 10 January 2026
+From: 11 January 2025 - To: 11 January 2026
 
-Total Time: 556 hrs 5 mins
+Total Time: 556 hrs 32 mins
 
-TypeScript    400 hrs 49 mins ██████████████████░░░░░░░   71.70 %
-Go            69 hrs 32 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Python        22 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-JSON          13 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML          11 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TypeScript    401 hrs 1 min   ██████████████████░░░░░░░   71.68 %
+Go            69 hrs 39 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Python        22 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+JSON          13 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown      11 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:wakayearly-->

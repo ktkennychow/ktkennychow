@@ -42,7 +42,7 @@ TSConfig     10 mins         ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 16 January 2025 - To: 16 January 2026
+From: 17 January 2025 - To: 17 January 2026
 
 Total Time: 571 hrs 5 mins
 

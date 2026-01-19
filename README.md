@@ -27,15 +27,15 @@
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
-From: 17 December 2025 - To: 16 January 2026
+From: 18 December 2025 - To: 17 January 2026
 
-Total Time: 40 hrs 17 mins
+Total Time: 38 hrs 16 mins
 
-TypeScript   33 hrs 49 mins  █████████████████████░░░░   83.90 %
-Go           4 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-Markdown     1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-TSConfig     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TypeScript   31 hrs 51 mins  ████████████████████▓░░░░   83.19 %
+Go           4 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Markdown     1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TSConfig     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:wakamonthly-->

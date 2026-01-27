@@ -42,7 +42,7 @@ JSON         7 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 24 January 2025 - To: 24 January 2026
+From: 25 January 2025 - To: 25 January 2026
 
 Total Time: 578 hrs 6 mins
 

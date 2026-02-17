@@ -42,7 +42,7 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 15 February 2025 - To: 15 February 2026
+From: 16 February 2025 - To: 16 February 2026
 
 Total Time: 591 hrs 38 mins
 

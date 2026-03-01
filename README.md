@@ -42,7 +42,7 @@ Git          2 mins                ░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 27 February 2025 - To: 27 February 2026
+From: 28 February 2025 - To: 28 February 2026
 
 Total Time: 600 hrs 3 mins
 

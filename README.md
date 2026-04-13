@@ -27,13 +27,13 @@
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
-From: 11 March 2026 - To: 10 April 2026
+From: 12 March 2026 - To: 11 April 2026
 
-Total Time: 42 hrs 20 mins
+Total Time: 41 hrs 17 mins
 
-TypeScript   30 hrs 29 mins        ████████████████▒░░░░░░░░   65.49 %
-Markdown     6 hrs 51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Other        4 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+TypeScript   29 hrs 32 mins        ████████████████▒░░░░░░░░   64.89 %
+Markdown     6 hrs 46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+Other        4 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
 ```
 
 <!--END_SECTION:wakamonthly-->

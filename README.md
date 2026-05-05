@@ -27,12 +27,12 @@
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
-From: 02 April 2026 - To: 02 May 2026
+From: 03 April 2026 - To: 03 May 2026
 
-Total Time: 51 hrs 42 mins
+Total Time: 48 hrs 53 mins
 
-TypeScript   41 hrs 30 mins        █████████████████▓░░░░░░░   71.10 %
-Other        6 hrs 39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+TypeScript   38 hrs 38 mins        █████████████████▒░░░░░░░   69.84 %
+Other        6 hrs 26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
 ```
 
 <!--END_SECTION:wakamonthly-->

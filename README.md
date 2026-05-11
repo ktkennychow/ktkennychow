@@ -39,7 +39,7 @@ Other        6 hrs 26 mins         ██▓░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 09 May 2025 - To: 09 May 2026
+From: 10 May 2025 - To: 10 May 2026
 
 Total Time: 579 hrs 28 mins
 

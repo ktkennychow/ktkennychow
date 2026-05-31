@@ -42,15 +42,15 @@ Bash         2 hrs 6 mins          █░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 28 May 2025 - To: 28 May 2026
+From: 30 May 2025 - To: 30 May 2026
 
-Total Time: 595 hrs 44 mins
+Total Time: 593 hrs 48 mins
 
-TypeScript   427 hrs 59 mins       █████████████████▓░░░░░░░   70.77 %
-Go           55 hrs 26 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Markdown     27 hrs 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Python       23 hrs 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-JSON         17 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+TypeScript   425 hrs 14 mins       █████████████████▓░░░░░░░   70.53 %
+Go           55 hrs 26 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Markdown     27 hrs 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Python       23 hrs 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+JSON         18 hrs 3 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:wakayearly-->

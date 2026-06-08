@@ -42,7 +42,7 @@ Bash         1 hr 21 mins          ▓░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 06 June 2025 - To: 06 June 2026
+From: 07 June 2025 - To: 07 June 2026
 
 Total Time: 600 hrs 13 mins
 

@@ -27,15 +27,15 @@
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
-From: 08 May 2026 - To: 07 June 2026
+From: 09 May 2026 - To: 08 June 2026
 
-Total Time: 45 hrs 59 mins
+Total Time: 49 hrs 43 mins
 
-TypeScript   28 hrs 5 mins         ███████████████░░░░░░░░░░   59.89 %
-JSON         5 hrs 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Markdown     4 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-YAML         3 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Bash         1 hr 19 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+TypeScript    31 hrs 35 mins        ███████████████▓░░░░░░░░░   62.42 %
+Markdown      5 hrs 16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JSON          5 hrs 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+YAML          3 hrs                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Bash          1 hr 19 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:wakamonthly-->

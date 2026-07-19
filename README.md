@@ -27,15 +27,15 @@
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
-From: 16 June 2026 - To: 16 July 2026
+From: 17 June 2026 - To: 17 July 2026
 
-Total Time: 82 hrs 49 mins
+Total Time: 82 hrs 14 mins
 
-TypeScript    57 hrs 58 mins        █████████████████▒░░░░░░░   69.24 %
-Markdown      11 hrs 47 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-JSON          5 hrs 21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Text          2 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-YAML          1 hr 18 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript    57 hrs 35 mins        █████████████████▒░░░░░░░   69.27 %
+Markdown      11 hrs 48 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+JSON          5 hrs 21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Text          2 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+YAML          1 hr 18 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:wakamonthly-->

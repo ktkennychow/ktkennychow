@@ -42,15 +42,15 @@ YAML          1 hr 43 mins          ▓░░░░░░░░░░░░░�
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 07 August 2025 - To: 07 August 2026
+From: 08 August 2025 - To: 08 August 2026
 
-Total Time: 627 hrs 14 mins
+Total Time: 625 hrs 42 mins
 
-TypeScript    430 hrs 30 mins       █████████████████░░░░░░░░   67.47 %
-Go            50 hrs 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Markdown      49 hrs 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-JSON          27 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Python        17 hrs 55 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript    429 hrs 44 mins       █████████████████░░░░░░░░   67.51 %
+Go            50 hrs 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Markdown      49 hrs 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+JSON          27 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Python        17 hrs 12 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:wakayearly-->

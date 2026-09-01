@@ -41,14 +41,14 @@ Other         5 hrs 44 mins         █▓░░░░░░░░░░░░�
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 30 August 2025 - To: 30 August 2026
+From: 31 August 2025 - To: 31 August 2026
 
-Total Time: 628 hrs 13 mins
+Total Time: 628 hrs 55 mins
 
-TypeScript    439 hrs 28 mins       █████████████████░░░░░░░░   68.27 %
-Markdown      57 hrs 24 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Go            30 hrs 10 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-JSON          30 hrs 5 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+TypeScript    441 hrs 40 mins       █████████████████░░░░░░░░   68.53 %
+Markdown      57 hrs 25 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+JSON          30 hrs 5 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Go            28 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 Python        17 hrs 27 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 

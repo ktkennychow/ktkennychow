@@ -27,13 +27,13 @@
 <!--START_SECTION:wakamonthly-->
 
 ```javascript
-From: 20 August 2026 - To: 19 September 2026
+From: 21 August 2026 - To: 20 September 2026
 
-Total Time: 76 hrs 11 mins
+Total Time: 77 hrs 10 mins
 
-TypeScript      41 hrs 47 mins        ████████████▒░░░░░░░░░░░░   49.75 %
-Markdown        15 hrs 47 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-Other           7 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+TypeScript      40 hrs 34 mins        ████████████░░░░░░░░░░░░░   47.57 %
+Markdown        16 hrs 1 min          ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+Other           8 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
 ```
 
 <!--END_SECTION:wakamonthly-->

@@ -40,14 +40,14 @@ Other           9 hrs 22 mins         ██▒░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```javascript
-From: 24 September 2025 - To: 24 September 2026
+From: 25 September 2025 - To: 25 September 2026
 
-Total Time: 656 hrs 48 mins
+Total Time: 660 hrs 43 mins
 
-TypeScript      460 hrs 22 mins       █████████████████░░░░░░░░   67.69 %
-Markdown        72 hrs 20 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-JSON            34 hrs 22 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Other           23 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+TypeScript      462 hrs 17 mins       █████████████████░░░░░░░░   67.58 %
+Markdown        72 hrs 53 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+JSON            34 hrs 23 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Other           23 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:wakayearly-->
